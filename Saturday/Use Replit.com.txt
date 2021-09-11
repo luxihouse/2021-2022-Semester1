@@ -1,0 +1,4 @@
+Browse https://replit.com, create an account, then login the account;
+Find 'Create' (in big and bold font) in the lower middle section of the page after login. From the list of buttons under 'Create', click on python, follow the instructions, it should show you the page to write python programs;
+Type <print('Hello World!')> (without arrow bracket) in the box shown in the class, then click on the Run button (in the middle and top of the page). On the right side of the page (black box),
+you would see the <Hello World!> is printed. This is your first python program.
